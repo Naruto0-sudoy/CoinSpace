@@ -29,7 +29,7 @@
     "@simplewebauthn/server": "^8.2.0",
     "@simplewebauthn/server-1.0.0": "npm:@simplewebauthn/server@^1.0.0",
     "@unstoppabledomains/resolution": "^9.2.2",
-    "axios": "^1.7.7",
+    "axios": "^1.12.0",
     "axios-rate-limit": "^1.4.0",
     "axios-retry": "^4.5.0",
     "big.js": "^6.2.1",
