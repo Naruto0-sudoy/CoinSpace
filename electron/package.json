@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "@sentry/electron": "^4.11.0",
-    "electron-log": "^5.0.0"
+    "electron-log": "^5.4.3"
   },
   "eslintConfig": {
     "root": true,
